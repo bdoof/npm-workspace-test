@@ -10,6 +10,6 @@
     "e2e"
   ],
   "dependencies": {
-    "express": "^4.13.2"
+    "express": "^4.19.2"
   }
 }
