@@ -21,3 +21,9 @@ Run in a nested project folder:
 ```shell
 npm ci
 ```
+
+# Run
+Run script <script-name> in all projects:
+```shell
+npm run <script-name> --workspaces true --include-workspace-root
+```
